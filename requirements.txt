@@ -1,0 +1,13 @@
+
+langchain
+langchain-groq
+langgraph
+python-dotenv
+sqlalchemy
+pymysql
+pandas
+fastapi
+uvicorn
+streamlit
+plotly
+
